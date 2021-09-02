@@ -33,7 +33,7 @@ import java.util.Scanner;
 3
 
  */
-public class Tort {
+public class Cake {
 
     public static void main(String[] args) {
 

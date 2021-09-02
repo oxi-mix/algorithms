@@ -45,7 +45,7 @@ import java.util.Scanner;
 9
 
  */
-public class Moneta {
+public class Coin {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n  = in.nextInt();

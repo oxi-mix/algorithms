@@ -44,7 +44,7 @@ i​
 */
 import java.util.Scanner;
 
-public class ChetniyNeChetniy {
+public class RoadsAndCities {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

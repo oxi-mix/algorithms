@@ -36,7 +36,7 @@ package tinkoff;
 
 import java.util.Scanner;
 
-public class Obedi {
+public class Lunches {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

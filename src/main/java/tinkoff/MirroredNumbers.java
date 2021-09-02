@@ -46,7 +46,7 @@ package tinkoff;
  */
 
 import java.util.Scanner;
-public class ZerkalChisla {
+public class MirroredNumbers {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
